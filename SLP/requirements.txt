@@ -1,0 +1,6 @@
+streamlit
+pandas
+supabase
+google-api-python-client
+pytrends
+python-dotenv

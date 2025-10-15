@@ -1,0 +1,29 @@
+SEARCHLIGHT PROJECT
+
+project name : Searchlight
+
+Database password: tjclfkdlxm1900 
+
+anon/public: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJheXBsYmxjYWlobXBzbW5wd2RmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjA0MDU3ODMsImV4cCI6MjA3NTk4MTc4M30.tWfDYzKpicXqPcuVyvLHq6Qt4Y3sBXtyGuFsABDuvT8
+
+service_role/secret: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJheXBsYmxjYWlobXBzbW5wd2RmIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2MDQwNTc4MywiZXhwIjoyMDc1OTgxNzgzfQ.HdgnLLoEucxnH_WdnnWjlPIOs4KCVei1_blwyz3LwXc
+
+Project URL: https://rayplblcaihmpsmnpwdf.supabase.co
+
+Direct connection: postgresql://postgres:tjclfkdlxm1900@db.rayplblcaihmpsmnpwdf.supabase.co:5432/postgres
+
+Transaction pooler: postgresql://postgres.rayplblcaihmpsmnpwdf:tjclfkdlxm1900@aws-1-ap-northeast-2.pooler.supabase.com:6543/postgres
+
+
+# Supabase
+SUPABASE_URL="https://rayplblcaihmpsmnpwdf.supabase.co"
+SUPABASE_ANON_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJheXBsYmxjYWlobXBzbW5wd2RmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjA0MDU3ODMsImV4cCI6MjA3NTk4MTc4M30.tWfDYzKpicXqPcuVyvLHq6Qt4Y3sBXtyGuFsABDuvT8"
+
+# YouTube Data API
+YOUTUBE_API_KEY="AIzaSyBzIw49qRzFqIki1Woy9mS82ZhluirbfmA"
+
+# Google Gemini API
+GEMINI_API_KEY="AIzaSyDpm8tjDFfQXMTAeT9Z_DMbwseLu2Y2jYA"
+
+# Streamlit App Password
+STREAMLIT_APP_PASSWORD="searchlight123"
