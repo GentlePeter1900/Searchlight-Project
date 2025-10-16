@@ -47,6 +47,7 @@ CREATE TABLE videos (
     published_at TIMESTAMPTZ,
     tags TEXT[],
     duration_sec INTEGER, -- 영상 길이 (초)
+    thumbnail_url TEXT, -- 영상 썸네일 URL 추가
     created_at TIMESTAMPTZ DEFAULT NOW(),
     updated_at TIMESTAMPTZ DEFAULT NOW(),
     content_format TEXT, -- v2.0: AI가 분류한 콘텐츠 포맷
